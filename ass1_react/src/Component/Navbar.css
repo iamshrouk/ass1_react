@@ -1,0 +1,12 @@
+.navbar-nav .active {
+  background-color: #1abc9c;
+  border-radius: 4px;
+  padding: 3px 8px;
+}
+nav.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}

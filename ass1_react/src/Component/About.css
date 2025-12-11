@@ -1,0 +1,15 @@
+.about-section {
+  background-color: #1abc9c;   
+  min-height: 100vh;
+  padding: 100px 0;
+}
+
+.line {
+  width: 70px;
+  height: 4px;
+  background: white !important;
+}
+
+.star {
+  font-size: 25px;
+}
