@@ -1,8 +1,9 @@
 [
-  { "id": 1, "img": "./cabin.png" },
-  { "id": 2, "img": "./cake.png" },
-  { "id": 3, "img": "./circus.png" },
-  { "id": 4, "img": "./cabin.png" },
-  { "id": 5, "img": "./cake.png" },
-  { "id": 6, "img": "./circus.png" }
+  { "id": 1, "img": "assets/cabin.png" },
+  { "id": 2, "img": "assets/cake.png" },
+  { "id": 3, "img": "assets/circus.png" },
+  { "id": 4, "img": "assets/cabin.png" },
+  { "id": 5, "img": "assets/cake.png" },
+  { "id": 6, "img": "assets/circus.png" }
 ]
+
