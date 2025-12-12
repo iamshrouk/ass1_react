@@ -4,12 +4,13 @@ import "./Portfolio.css";
 export default function Portfolio() {
   const [items, setItems] = useState([]);
 
-  useEffect(() => {
-    fetch("/portfolioData.json") // يجيب ال API
-      .then((res) => res.json())
-      .then((data) => setItems(data))
-      .catch((err) => console.log(err));
-  }, []);
+useEffect(() => {
+fetch("/ass1_react/portfolioData.json")
+  .then((res) => res.json())
+  .then((data) => setItems(data))
+  .catch((err) => console.log(err));
+},[]);
+
 
   return (
     <div className="container py-5">
