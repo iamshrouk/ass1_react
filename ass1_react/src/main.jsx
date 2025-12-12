@@ -9,7 +9,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename="/ass1_react">
+    <BrowserRouter basename="/ass1_react/">
       <App />
     </BrowserRouter>
   </StrictMode>,
